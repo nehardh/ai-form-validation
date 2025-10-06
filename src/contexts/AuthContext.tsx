@@ -14,7 +14,7 @@ const mockUser: User = {
   id: '1',
   name: 'Dr. Sarah Johnson',
   email: 'sarah.johnson@hospital.com',
-  role: 'Provider'
+  role: 'Admin'
 };
 
 export const AuthProvider: React.FC<{ children: ReactNode }> = ({ children }) => {

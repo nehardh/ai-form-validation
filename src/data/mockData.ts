@@ -72,7 +72,20 @@ export const mockClaims: Claim[] = [
     uploadDate: '2024-12-19',
     fileName: 'ub04_jane_smith.pdf',
     errors: []
-  }
+  },
+    {
+    id: 'CLM-003',
+    patientName: 'Jerry Doe',
+    policyNumber: '',
+    diagnosisCode: 'X123',
+    procedureCode: '99213',
+    dateOfService: '2025-08-01',
+    providerId: 'PRV001',
+    status: 'pending',
+    uploadDate: '2024-12-20',
+    fileName: 'cms1500_john_doe.pdf',
+    errors: mockValidationErrors
+  },
 ];
 
 export const mockChartData = {

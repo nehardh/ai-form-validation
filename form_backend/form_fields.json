@@ -1,0 +1,240 @@
+[
+    {
+        "name": "Med_Type",
+        "x": 38,
+        "y": 200,
+        "w": 731,
+        "h": 51
+    },
+    {
+        "name": "Insured_ID",
+        "x": 775,
+        "y": 204,
+        "w": 449,
+        "h": 46
+    },
+    {
+        "name": "Patient_Name",
+        "x": 40,
+        "y": 253,
+        "w": 428,
+        "h": 46
+    },
+    {
+        "name": "Patient_Dob_Sex",
+        "x": 471,
+        "y": 253,
+        "w": 297,
+        "h": 45
+    },
+        {
+        "name": "Patient_Address",
+        "x": 41,
+        "y": 300,
+        "w": 426,
+        "h": 149
+    },
+    {
+        "name": "Patient_Insurer_Relation",
+        "x": 470,
+        "y": 301,
+        "w": 301,
+        "h": 50
+    },
+    {
+        "name": "Insured_Address",
+        "x": 771,
+        "y": 300,
+        "w": 451,
+        "h": 149
+    },
+    {
+        "name": "Reserved_For_NUCC",
+        "x": 473,
+        "y": 352,
+        "w": 295,
+        "h": 97
+    },
+        {
+        "name": "Other_Insured_Name",
+        "x": 41,
+        "y": 452,
+        "w": 425,
+        "h": 245
+    },
+    {
+        "name": "Patient_Condition",
+        "x": 471,
+        "y": 452,
+        "w": 297,
+        "h": 246
+    },
+    {
+        "name": "Insured_Policy_Group",
+        "x": 774,
+        "y": 452,
+        "w": 448,
+        "h": 248
+    },
+        {
+        "name": "Patient_Auth_Sign_Date",
+        "x": 42,
+        "y": 703,
+        "w": 726,
+        "h": 98
+    },
+    {
+        "name": "Insured_Auth_Sign_Date",
+        "x": 773,
+        "y": 702,
+        "w": 450,
+        "h": 98
+    },
+        {
+        "name": "Date_Of_Current_Illness",
+        "x": 42,
+        "y": 804,
+        "w": 396,
+        "h": 45
+    },
+    {
+        "name": "Other_Date",
+        "x": 444,
+        "y": 803,
+        "w": 324,
+        "h": 45
+    },
+    {
+        "name": "Dates_Patient_Unable_To_Work",
+        "x": 774,
+        "y": 803,
+        "w": 450,
+        "h": 44
+    },
+    {
+        "name": "Name_Of_Referring_Provider",
+        "x": 42,
+        "y": 851,
+        "w": 395,
+        "h": 44
+    },
+    {
+        "name": "17a_b",
+        "x": 442,
+        "y": 853,
+        "w": 326,
+        "h": 44
+    },
+    {
+        "name": "Hospitalization_Dates_Related_To_Curr_Services",
+        "x": 773,
+        "y": 851,
+        "w": 451,
+        "h": 46
+    },
+        {
+        "name": "Add_Claim_Info",
+        "x": 43,
+        "y": 901,
+        "w": 723,
+        "h": 45
+    },
+    {
+        "name": "OutsideLab_and_Charges",
+        "x": 773,
+        "y": 902,
+        "w": 450,
+        "h": 49
+    },
+    {
+        "name": "Diagnosis_Nature_Of_Illness",
+        "x": 42,
+        "y": 953,
+        "w": 726,
+        "h": 99
+    },
+    {
+        "name": "Resubmission_Code_and_Refno",
+        "x": 774,
+        "y": 954,
+        "w": 448,
+        "h": 44
+    },
+    {
+        "name": "Prior_Auth_Number",
+        "x": 774,
+        "y": 1001,
+        "w": 448,
+        "h": 49
+    },
+        {
+        "name": "Physician_Or_Supplier_Info",
+        "x": 41,
+        "y": 1053,
+        "w": 1183,
+        "h": 344
+    },
+    {
+        "name": "Federal_Tax_Number",
+        "x": 42,
+        "y": 1401,
+        "w": 321,
+        "h": 50
+    },
+    {
+        "name": "Patient_Ac_No",
+        "x": 369,
+        "y": 1400,
+        "w": 214,
+        "h": 50
+    },
+    {
+        "name": "Accept_Assignment",
+        "x": 587,
+        "y": 1399,
+        "w": 184,
+        "h": 51
+    },
+    {
+        "name": "Total_Charges",
+        "x": 774,
+        "y": 1399,
+        "w": 168,
+        "h": 53
+    },
+    {
+        "name": "Amt_Paid",
+        "x": 944,
+        "y": 1400,
+        "w": 138,
+        "h": 49
+    },
+    {
+        "name": "NUCC_USE",
+        "x": 1085,
+        "y": 1399,
+        "w": 139,
+        "h": 50
+    },
+    {
+        "name": "Physician_Sign_Date",
+        "x": 41,
+        "y": 1453,
+        "w": 321,
+        "h": 120
+    },
+    {
+        "name": "Service_Facility_Loc_Info",
+        "x": 369,
+        "y": 1453,
+        "w": 400,
+        "h": 120
+    },
+    {
+        "name": "Billin_Provider_Info",
+        "x": 774,
+        "y": 1453,
+        "w": 448,
+        "h": 122
+    }
+]
