@@ -14,8 +14,6 @@ This web app provides a fast, modular, and scalable frontend interface for valid
 5. [Getting Started](#-getting-started)  
 6. [Available Scripts](#-available-scripts)  
 7. [Development Guidelines](#-development-guidelines)  
-8. [Deployment](#-deployment)  
-9. [License](#-license)
 
 ---
 
